@@ -1,6 +1,6 @@
 # Spotify-Interface-Copy
 Esse projeto contém uma páagina e é uma cópia da interface do Spotify.
-Com a realização desse projeto eu reforcei e ampliei meus conhecimentos em flex-box e css-gird, por meio da biblioteca Tailwind.
+Com a realização desse projeto eu reforcei e ampliei meus conhecimentos em flex-box e css-gird, por meio da biblioteca Tailwind, e da Tailwind React-Lucide para os ícones.
 
 ![image](https://github.com/danielbenfica/Spotify-Interface-Clone/assets/132002681/fd799d6c-ef7c-4be4-b9f2-d7bdfd45f19a)
 
